@@ -6,7 +6,7 @@ namespace ASP_NET_L3.DAL.Abstracts
     {
         Book GetById(int id);
         List<Book> GetAll();
-        void AddBook(Book book);
+        bool AddBook(Book book);
         bool BookExistsByISBN(string isbn);
         bool BookExistsByTitle(string title, int authorId);
     }

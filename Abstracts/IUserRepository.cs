@@ -7,6 +7,6 @@ namespace ASP_NET_L3.DAL.Abstracts
         User GetById(int id);
 
         List<User> GetAll();
-        void AddUser(User user);
+        bool AddUser(User user);
     }
 }

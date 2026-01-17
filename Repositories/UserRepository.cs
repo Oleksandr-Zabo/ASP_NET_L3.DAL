@@ -12,11 +12,12 @@ namespace ASP_NET_L3.DAL.Repositories
             //dependency injection
 
         }
-        public void AddUser(User user)
+        public bool AddUser(User user)
         {
-            //throw new NotImplementedException();
-            _db.Users.Add(user);
+            var res = _db.Users.Add(user) != null;
             _db.SaveChanges();
+
+            return res;
         }
 
         public User GetById(int id)

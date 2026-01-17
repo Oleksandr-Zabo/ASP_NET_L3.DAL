@@ -12,3 +12,4 @@ C:\Users\ADMIN\source\repos\ASP_NET_L3.DAL\obj\Debug\net8.0\refint\ASP_NET_L3.DA
 C:\Users\ADMIN\source\repos\ASP_NET_L3.DAL\obj\Debug\net8.0\ASP_NET_L3.DAL.pdb
 C:\Users\ADMIN\source\repos\ASP_NET_L3.DAL\obj\Debug\net8.0\ASP_NET_L3.DAL.genruntimeconfig.cache
 C:\Users\ADMIN\source\repos\ASP_NET_L3.DAL\obj\Debug\net8.0\ref\ASP_NET_L3.DAL.dll
+C:\Users\ADMIN\source\repos\ASP_NET_L3.DAL\obj\Debug\net8.0\ASP_NET_L3.DAL.sourcelink.json

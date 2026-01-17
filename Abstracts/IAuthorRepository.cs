@@ -4,9 +4,8 @@ namespace ASP_NET_L3.DAL.Abstracts
 {
     public interface IAuthorRepository
     {
+        bool AddAuthor(Author author);
         Author GetById(int id);
         List<Author> GetAll();
-        void AddAuthor(Author author);
-        bool AuthorExists(string firstName, string lastName, DateTime birthDate);
     }
 }

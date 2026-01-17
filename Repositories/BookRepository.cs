@@ -12,10 +12,11 @@ namespace ASP_NET_L3.DAL.Repositories
             _db = db;
         }
 
-        public void AddBook(Book book)
+        public bool AddBook(Book book)
         {
-            _db.Books.Add(book);
+            var res = _db.Books.Add(book) != null;
             _db.SaveChanges();
+            return res;
         }
 
         public Book GetById(int id)
