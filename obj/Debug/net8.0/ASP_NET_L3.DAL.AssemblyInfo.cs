@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP_NET_L3.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+deef904d46ab37d53313510b974b65c29904e130")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d86cb6f907fd387ae137bf671e29c2cc40085af0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP_NET_L3.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP_NET_L3.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
